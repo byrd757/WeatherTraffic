@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="radioOn">#ffffff</color>
+    <color name="radioOff">#888888</color>
+    <color name="radioTextOff">#ffffff</color>
+    <color name="radioTextOn">#888888</color>
+</resources>

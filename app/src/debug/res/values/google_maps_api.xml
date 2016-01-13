@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=B1:7C:92:5E:8E:42:07:C1:FD:6F:5C:5A:B1:04:EB:A5:26:43:12:AE%3Bcom.byrdapps.weathertraffic
+
+    You can also add your credentials to an existing key, using this line:
+    B1:7C:92:5E:8E:42:07:C1:FD:6F:5C:5A:B1:04:EB:A5:26:43:12:AE;com.byrdapps.weathertraffic
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAj3spKGHbOwFsBwvPB4AmdX6THhxOYuO8</string>
+</resources>
